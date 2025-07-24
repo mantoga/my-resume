@@ -1,0 +1,64 @@
+baseURL = "https://mantoga.github.io/"
+languageCode = "en-us"
+title = "Gabriele Mantovani Banella"
+theme = "coder"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Gabriele Mantovani Banella"
+    info = "Full Stack DevOps"
+    description = "Mantoga personal website"
+    keywords = "resume,developer,personal"
+    avatarurl = "img/me-april.png"
+
+    favicon_32 = "images/favicon-32x32.png"
+    favicon_16 = "images/favicon-16x16.png"
+
+    footercontent = ""
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = false
+    custom_css = []
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-2x fa-github"
+    weight = 1
+    url = "https://github.com/mantoga/"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fa fa-2x fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/gabriele-mantovani-banella-69015937/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-2x fa-twitter"
+    weight = 3
+    url = "https://twitter.com/GabrieleMantova/"
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url  = "/about/"
+[[menu.main]]
+    name = "Projects"
+    weight = 2
+    url = "/projects/"
+[[menu.main]]
+    name = "Skills"
+    weight = 3
+    url = "/skills/"
+
