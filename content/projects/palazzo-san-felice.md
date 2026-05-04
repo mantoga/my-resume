@@ -4,7 +4,7 @@ date: 2025-06-12T18:00:00+02:00
 draft: false
 ---
 
-Verso la futura Biblioteca di Archeologia e Storia dell'Arte | Exibitions - Software development | 2025
+Verso la futura Biblioteca di Archeologia e Storia dell'Arte | Exhibitions - Software development | 2025
 
 #### Remote control and management system for video streaming and video projectors ####
 

@@ -4,7 +4,7 @@ date: 2021-10-07T18:00:00+02:00
 draft: false
 ---
 
-Paesaggi e personaggi della Commedia | Exibitions - Software development | 2021
+Paesaggi e personaggi della Commedia | Exhibitions - Software development | 2021
 
 #### Remote control and management system for video streaming and video projectors ####
 

@@ -12,7 +12,7 @@ I have strong experience in Web GIS development, working with GeoServer, PostGIS
 
 I do front-end development using Angular, React, Svelte, TypeScript with (Bootstrap, Material UI), Internet Mapping with Geoserver, PostGIS and (Openlayers, Leaflet), Spatial Data Analysis with QGIS.
 
-Capable of doing basic web production server setup: Ubuntu/Centos with basic security, PostgreSQL/PostGIS MySql/MaridDB MongoDB/BoltDB/ Elasticsearch, nginx + (Gunicorn, uWSGI), Docker & Kubernetes.
+Capable of doing basic web production server setup: Ubuntu/Centos with basic security, PostgreSQL/PostGIS MySQL/MariaDB MongoDB/BoltDB/Elasticsearch, nginx + (Gunicorn, uWSGI), Docker & Kubernetes.
 
 Recently, I’ve integrated LLM-based services via OpenAI and Google APIs, developing chatbot interfaces, embedding search tools, and NLP pipelines in both web and GIS applications to enhance user interaction, automate insight extraction, and perform semantic search across spatial and textual datasets.
 

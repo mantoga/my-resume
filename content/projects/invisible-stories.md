@@ -4,7 +4,7 @@ date: 2020-02-21T15:44:36+01:00
 draft: false
 ---
 
-[Racconti Invisibili](https://www.raccontinvisibili.com) | Exibitions - Software development | 2019, 2020
+[Racconti Invisibili](https://www.raccontinvisibili.com) | Exhibitions - Software development | 2019, 2020
 
 Stack: Go, Python, React JS, PostgreSQL
 
@@ -19,4 +19,3 @@ America
 - Santiago del Cile, Cile | 2019
 
 ![Invisible Stories](invisible-stories.png "Invisible Stories")
-

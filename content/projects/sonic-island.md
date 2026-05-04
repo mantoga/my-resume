@@ -6,4 +6,4 @@ draft: false
 
 Roma, Multimedia | Software development | 2012 - 2013
 
-![Sonic Island](sonic-island.png "Intercative Installation")
+![Sonic Island](sonic-island.png "Interactive Installation")

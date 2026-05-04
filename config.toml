@@ -1,5 +1,5 @@
 baseURL = "https://mantoga.github.io/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Gabriele Mantovani Banella"
 theme = "coder"
 defaultcontentlanguage = "en"
@@ -33,12 +33,12 @@ pygmentscodefencesguesssyntax = true
 
 # Social links
 [[params.social]]
-    name = "Github"
+    name = "GitHub"
     icon = "fa fa-2x fa-github"
     weight = 1
     url = "https://github.com/mantoga/"
 [[params.social]]
-    name = "Linkedin"
+    name = "LinkedIn"
     icon = "fa fa-2x fa-linkedin"
     weight = 2
     url = "https://www.linkedin.com/in/gabriele-mantovani-banella-69015937/"
@@ -61,4 +61,3 @@ pygmentscodefencesguesssyntax = true
     name = "Skills"
     weight = 3
     url = "/skills/"
-
