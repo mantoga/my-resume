@@ -28,6 +28,12 @@ For coastal and multi-hazard risk applications, my profile fits the bridge betwe
 
 I can work directly on frontend implementation and interaction design while also coordinating backend, frontend, and GIS development workstreams.
 
+## Interactive Installations and Creative Technology
+
+I have collaborated with [OpenLabCompany](https://www.openlabcompany.com/installations) on interactive installations and multimedia projects exploring the relationship between people, technology, and space.
+
+This background strengthens my ability to design and implement high-impact interfaces and immersive user experiences where software, media systems, spatial interaction, scenography, and live audience experience need to work together.
+
 ## Web Development
 
 I build web applications with Python (Django, Flask), Node.js (Express), Go (Hugo, Gin Gonic, Gorilla toolkit), and PHP (Drupal 7/8, Symfony, WordPress).
