@@ -42,7 +42,7 @@ On the frontend, I work with JavaScript ES6/ES7, AngularJS, React, Redux, Svelte
 
 ## Team Coordination
 
-At [SIAV SpA] (https://www.siav.com/en) I coordinated a frontend and backend development team working on Python/Django, React, JavaScript/TypeScript, Svelte, PostgreSQL, and ELK Stack applications.
+At [SIAV SpA](https://www.siav.com/en) I coordinated a frontend and backend development team working on Python/Django, React, JavaScript/TypeScript, Svelte, PostgreSQL, and ELK Stack applications.
 
 This experience supports my ability to contribute both as a hands-on developer and as a technical coordinator across analysis, implementation, project management, code repositories, and delivery workflows.
 
