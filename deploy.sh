@@ -6,7 +6,7 @@ PUBLIC_DIR="$ROOT_DIR/public"
 SITE_URL="https://mantoga.github.io"
 msg="rebuilding site $(date)"
 
-if [ ! -d "$PUBLIC_DIR/.git" ]; then
+if ! git -C "$PUBLIC_DIR" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   echo "Error: public/ is expected to be a Git repository." >&2
   exit 1
 fi
