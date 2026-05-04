@@ -24,7 +24,7 @@ I pay particular attention to the interface layer: visual clarity, usability, in
 
 I can contribute to digital twin infrastructures that combine geospatial data, model outputs, simulation workflows, and user-facing decision-support tools.
 
-For coastal and multi-hazard risk applications, my profile fits the bridge between backend GIS/data services and interactive frontend environments: map-based exploration, scenario comparison, what-if simulation workflows, dashboards, and game-like interfaces for risk managers and operational users.
+For multi-hazard risk applications, my profile fits the bridge between backend GIS/data services and interactive frontend environments: map-based exploration, scenario comparison, what-if simulation workflows, dashboards, and interactive interfaces for risk managers and operational users.
 
 I can work directly on frontend implementation and interaction design while also coordinating backend, frontend, and GIS development workstreams.
 
@@ -42,7 +42,7 @@ On the frontend, I work with JavaScript ES6/ES7, AngularJS, React, Redux, Svelte
 
 ## Team Coordination
 
-At SIAV SpA I coordinated a frontend and backend development team working on Python/Django, React, JavaScript/TypeScript, Svelte, PostgreSQL, and ELK Stack applications.
+At [SIAV SpA] (https://www.siav.com/en) I coordinated a frontend and backend development team working on Python/Django, React, JavaScript/TypeScript, Svelte, PostgreSQL, and ELK Stack applications.
 
 This experience supports my ability to contribute both as a hands-on developer and as a technical coordinator across analysis, implementation, project management, code repositories, and delivery workflows.
 
