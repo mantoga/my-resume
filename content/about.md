@@ -13,6 +13,8 @@ I work as an external consultant and senior software developer at the Joint Rese
 
 Alongside GIS systems, I work on AI-based applications and high-impact user interfaces. I integrate large language models and AI services into practical tools, with attention to usability, visual quality, and clear interaction design.
 
+I am particularly interested in digital twin and decision-support interfaces where risk managers can explore scenarios, compare alternatives, and run what-if simulations through intuitive, map-based, and visually rich environments.
+
 I usually work across the full lifecycle of a project: requirements analysis, architecture, backend and frontend development, data modeling, deployment, remote monitoring, and long-term maintenance.
 
 You can download my resume [here](/about/CV-MantovaniBanellaGabriele.pdf)

@@ -13,9 +13,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Gabriele Mantovani Banella"
-    info = "GIS systems · AI interfaces · Full-stack development"
-    description = "Portfolio and resume of Gabriele Mantovani Banella, senior software developer and GIS consultant working on Copernicus Emergency Management Service flood applications, Web GIS systems, AI-based applications, and high-impact user interfaces."
-    keywords = "resume,developer,gis,mapserver,geoserver,qgis,copernicus,cems,efas,glofas,web gis,postgis,openlayers,leaflet,artificial intelligence,ai interfaces,ux,ui,full-stack"
+    info = "GIS systems · Digital twins · AI interfaces"
+    description = "Portfolio and resume of Gabriele Mantovani Banella, senior software developer and GIS consultant working on Copernicus Emergency Management Service flood applications, Web GIS systems, digital twin and what-if simulation interfaces, AI-based applications, and high-impact user interfaces."
+    keywords = "resume,developer,gis,mapserver,geoserver,qgis,copernicus,cems,efas,glofas,web gis,postgis,openlayers,leaflet,digital twin,coastal digital twin,what-if simulation,risk management,decision support,artificial intelligence,ai interfaces,ux,ui,full-stack"
     avatarurl = "img/me-april.png"
 
     favicon_32 = "images/favicon-32x32.png"
