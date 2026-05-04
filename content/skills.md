@@ -4,17 +4,33 @@ date: 2019-03-17T11:54:15+01:00
 draft: false
 ---
 
+## GIS Systems
+
+I have strong experience in GIS and Web GIS systems, working with MapServer, GeoServer, PostGIS, QGIS, and frontend mapping libraries such as OpenLayers and Leaflet.
+
+My work includes spatial data modeling, geospatial data processing, map publication services, interactive map interfaces, and integration with standards and formats such as WMS, WFS, GeoJSON, and NetCDF.
+
+As an external consultant at the Joint Research Centre (JRC) in Ispra, I work on the Copernicus Emergency Management Service, E1 Floods section, contributing to EFAS, GloFAS, and related web applications.
+
+In this context I collaborate with ECMWF-hosted repositories and use Atlassian tools including Bamboo, JIRA, Confluence, and Bitbucket.
+
+## AI Applications and Interfaces
+
+I integrate AI and LLM-based services into web applications using OpenAI and Google APIs, building chatbot interfaces, semantic search tools, NLP workflows, and assistants for exploring spatial and textual datasets.
+
+I pay particular attention to the interface layer: visual clarity, usability, interaction flow, and high-impact graphical presentation. My goal is to make complex systems accessible through clean, effective, and polished user interfaces.
+
 ## Web Development
 
-I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + (Symfony, Drupal, WordPress).
+I build web applications with Python (Django, Flask), Node.js (Express), Go (Hugo, Gin Gonic, Gorilla toolkit), and PHP (Drupal 7/8, Symfony, WordPress).
 
-I have strong experience in Web GIS development, working with GeoServer, PostGIS, and frontend libraries like OpenLayers and Leaflet for interactive mapping. I also use QGIS for spatial data processing and analysis, and I’m familiar with spatial ETL pipelines and geospatial data standards (WMS, WFS, GeoJSON, NetCDF).
+On the frontend, I work with JavaScript ES6/ES7, AngularJS, React, Redux, Svelte, TypeScript, GraphQL, Bootstrap, and Material UI, with a focus on applications where data visualization, maps, control panels, and operational dashboards are central to the user experience.
 
-I do front-end development using Angular, React, Svelte, TypeScript with (Bootstrap, Material UI), Internet Mapping with Geoserver, PostGIS and (Openlayers, Leaflet), Spatial Data Analysis with QGIS.
+## Infrastructure and Operations
 
 Capable of doing basic web production server setup: Ubuntu/Centos with basic security, PostgreSQL/PostGIS MySQL/MariaDB MongoDB/BoltDB/Elasticsearch, nginx + (Gunicorn, uWSGI), Docker & Kubernetes.
 
-Recently, I’ve integrated LLM-based services via OpenAI and Google APIs, developing chatbot interfaces, embedding search tools, and NLP pipelines in both web and GIS applications to enhance user interaction, automate insight extraction, and perform semantic search across spatial and textual datasets.
+I also work with Docker, Kubernetes, CI/CD workflows, version control with Atlassian Bitbucket, and remote monitoring and control systems for multimedia installations, including synchronized media playback, video streaming, projector control, and production deployment.
 
 ## Android
 
