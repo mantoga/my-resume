@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Gabriele Mantovani Banella"
-    info = "GIS systems · Digital twins · AI interfaces"
+    info = "GIS systems · Web interfaces · AI applications"
     description = "Portfolio and resume of Gabriele Mantovani Banella, senior software developer and GIS consultant working on Copernicus Emergency Management Service flood applications, Web GIS systems, digital twin and what-if simulation interfaces, AI-based applications, and high-impact user interfaces."
     keywords = "resume,developer,gis,mapserver,geoserver,qgis,copernicus,cems,efas,glofas,web gis,postgis,openlayers,leaflet,digital twin,coastal digital twin,what-if simulation,risk management,decision support,artificial intelligence,ai interfaces,ux,ui,full-stack"
     avatarurl = "img/me-april.png"
@@ -43,10 +43,10 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "https://www.linkedin.com/in/gabriele-mantovani-banella-69015937/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fa fa-2x fa-twitter"
+    name = "Contact"
+    icon = "fa fa-2x fa-envelope"
     weight = 3
-    url = "https://twitter.com/GabrieleMantova/"
+    url = "mailto:mc9807@me.com"
 
 # Menu links
 [[menu.main]]
